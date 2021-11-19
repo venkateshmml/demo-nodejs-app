@@ -38,3 +38,5 @@ Aplication will be deployed in AWS ECS.
 ## Notes
 
 Second Commit
+
+to trigger the Jenkins job after restarting the Jenkins service
